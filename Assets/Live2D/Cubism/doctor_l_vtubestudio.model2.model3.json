@@ -1,0 +1,38 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "doctor_l_VtubeStudio.moc3",
+		"Textures": [
+			"doctor_l_VtubeStudio.4096/texture_00.png"
+		],
+		"Physics": "doctor_l_VtubeStudio.physics3.json",
+		"DisplayInfo": "doctor_l_VtubeStudio.cdi3.json",
+		"Expressions": [
+			{
+				"Name": "good",
+				"File": "../../good.exp3.json"
+			},
+			{
+				"Name": "bad",
+				"File": "../../bad.exp3.json"
+			},
+			{
+				"Name": "normal",
+				"File": "../../normal.exp3.json"
+			}
+		]
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": []
+		},
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": []
+		}
+	],
+	"HitAreas": []
+}

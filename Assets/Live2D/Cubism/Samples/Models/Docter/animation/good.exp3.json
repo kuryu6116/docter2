@@ -1,0 +1,30 @@
+{
+	"Type": "Live2D Expression",
+	"Parameters": [
+		{
+			"Id": "ParamKirakira1",
+			"Value": 1,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamKirakira2",
+			"Value": 1,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamKirakira3",
+			"Value": 1,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamKirakira4",
+			"Value": 1,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamSmile",
+			"Value": 1,
+			"Blend": "Add"
+		}
+	]
+}

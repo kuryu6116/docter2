@@ -1,0 +1,363 @@
+テスト
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'posi_nega='0' where id = 8' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'posi_nega='0' where id = 8' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'posi_nega='0' where id = 8' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'posi_nega='0' where id = 8' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'posi_nega='0' where id = 9' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'posi_nega='0' where id = 8' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'posi_nega='0' where id = 8' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'posi_nega='0' where id = 9' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'posi_nega='0' where id = 9' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'posi_nega='0' where id = 9' at line 1
+[WinError 3] 指定されたパスが見つかりません。: './PNG/temp'
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'posi_nega='0' where id = 9' at line 1
+[WinError 3] 指定されたパスが見つかりません。: './PNG/temp'
+[WinError 3] 指定されたパスが見つかりません。: './PNG/temp'
+[WinError 3] 指定されたパスが見つかりません。: './PNG/temp'
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'posi_nega='0' where id = 9' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'posi_nega='0' where id = 9' at line 1
+[WinError 3] 指定されたパスが見つかりません。: './PNG/temp'
+[WinError 3] 指定されたパスが見つかりません。: './PNG/temp'
+[WinError 3] 指定されたパスが見つかりません。: './PNG/temp'
+[WinError 3] 指定されたパスが見つかりません。: './PNG/temp'
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'posi_nega='0' where id = 9' at line 1
+[WinError 3] 指定されたパスが見つかりません。: './PNG/temp'
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'posi_nega='0' where id = 9' at line 1
+[WinError 3] 指定されたパスが見つかりません。: './PNG/temp'
+[WinError 3] 指定されたパスが見つかりません。: './PNG/temp'
+[WinError 3] 指定されたパスが見つかりません。: './PNG/temp'
+[WinError 3] 指定されたパスが見つかりません。: './PNG/temp'
+[WinError 3] 指定されたパスが見つかりません。: './PNG/temp'
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'posi_nega='0' where id = 9' at line 1
+[WinError 3] 指定されたパスが見つかりません。: './PNG/temp'
+[WinError 3] 指定されたパスが見つかりません。: './PNG/temp'
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'posi_nega='0' where id = 9' at line 1
+Error when calling Cognitive Face API:
+	status_code: 401
+	code: 401
+	message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+
+Error when calling Cognitive Face API:
+	status_code: 401
+	code: 401
+	message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+
+Error when calling Cognitive Face API:
+	status_code: 401
+	code: 401
+	message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+
+Error when calling Cognitive Face API:
+	status_code: 401
+	code: 401
+	message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'posi_nega='0' where id = 9' at line 1
+Error when calling Cognitive Face API:
+	status_code: 401
+	code: 401
+	message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+
+Error when calling Cognitive Face API:
+	status_code: 401
+	code: 401
+	message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'posi_nega='0' where id = 9' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'posi_nega='0' where id = 9' at line 1
+Error when calling Cognitive Face API:
+	status_code: 401
+	code: 401
+	message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+
+Error when calling Cognitive Face API:
+	status_code: 401
+	code: 401
+	message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+
+Error when calling Cognitive Face API:
+	status_code: 401
+	code: 401
+	message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'posi_nega='0' where id = 9' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'posi_nega='0' where id = 9' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'posi_nega='0' where id = 9' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'posi_nega='0' where id = 9' at line 1
+name 'OpenText' is not defined
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'posi_nega='0' where id = 9' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'posi_nega='0' where id = 9' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'posi_nega='0' where id = 9' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'posi_nega='-3.150792' where id = 9' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'posi_nega='0' where id = 8' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'posi_nega='0' where id = 8' at line 1
+list index out of range
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'posi_nega='0' where id = 9' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'posi_nega='0' where id = 8' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'posi_nega='0' where id = 8' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'posi_nega='0' where id = 8' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'posi_nega='0' where id = 8' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'posi_nega='0' where id = 8' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'posi_nega='0' where id = 8' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'posi_nega='0' where id = 8' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'posi_nega='0' where id = 8' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'posi_nega='0' where id = 8' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'posi_nega='0' where id = 8' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'posi_nega='0' where id = 8' at line 1
+list index out of range
+list index out of range
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'posi_nega='0' where id = 9' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'posi_nega='0' where id = 9' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'posi_nega='0' where id = 9' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'posi_nega='0' where id = 9' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'posi_nega='0' where id = 9' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'posi_nega='0' where id = 9' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'posi_nega='0' where id = 9' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'posi_nega='0' where id = 9' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'posi_nega='0' where id = 9' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'posi_nega='0' where id = 9' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'posi_nega='0' where id = 9' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'posi_nega='0' where id = 8' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'posi_nega='0' where id = 8' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'posi_nega='0' where id = 9' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'posi_nega='0' where id = 9' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'posi_nega='0' where id = 9' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'posi_nega='0' where id = 9' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'posi_nega='0' where id = 9' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'posi_nega='0' where id = 9' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'posi_nega='0' where id = 9' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'posi_nega='0' where id = 9' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'posi_nega='0' where id = 9' at line 1
+Error when calling Cognitive Face API:
+	status_code: 400
+	code: InvalidImageSize
+	message: Image size is too small.
+
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'posi_nega='50' where id = 10' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'posi_nega='50' where id = 10' at line 1
+400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'posi_nega='50' where id = 10' at line 1
+400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'posi_nega='50' where id = 10' at line 1
+list index out of range
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'posi_nega='50' where id = 10' at line 1
+400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'posi_nega='50' where id = 10' at line 1
+list index out of range
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'posi_nega='50' where id = 10' at line 1
+list index out of range
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'posi_nega='50' where id = 10' at line 1
+list index out of range
+list index out of range
+list index out of range
+list index out of range
+list index out of range
+list index out of range
+list index out of range
+list index out of range
+list index out of range
+list index out of range
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'posi_nega='50' where id = 10' at line 1
+list index out of range
+list index out of range
+list index out of range
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'posi_nega='50' where id = 10' at line 1
+400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'posi_nega='50' where id = 10' at line 1
+Error when calling Cognitive Face API:
+	status_code: 400
+	code: InvalidImageSize
+	message: Image size is too small.
+
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'posi_nega='50' where id = 10' at line 1
+list index out of range
+list index out of range
+400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'posi_nega='50' where id = 10' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'posi_nega='0' where id = 8' at line 1
+400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+list index out of range
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'posi_nega='0' where id = 8' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'posi_nega='50' where id = 10' at line 1
+list index out of range
+list index out of range
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'posi_nega='50' where id = 10' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'posi_nega='50' where id = 10' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'posi_nega='50' where id = 10' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'posi_nega='50' where id = 10' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'posi_nega='50' where id = 10' at line 1
+list index out of range
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'posi_nega='49.89999' where id = 10' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'posi_nega='-2.1' where id = 8' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'posi_nega='0.22' where id = 8' at line 1
+list index out of range
+list index out of range
+list index out of range
+list index out of range
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'posi_nega='-0.58' where id = 11' at line 1
+list index out of range
+list index out of range
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'posi_nega='0.4599999' where id = 12' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'posi_nega='0' where id = 12' at line 1
+list index out of range
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'posi_nega='0.22' where id = 12' at line 1
+list index out of range
+list index out of range
+list index out of range
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'posi_nega='-1.16' where id = 13' at line 1
+invalid literal for int() with base 10: ''
+invalid literal for int() with base 10: ''
+invalid literal for int() with base 10: ''
+invalid literal for int() with base 10: ''
+invalid literal for int() with base 10: ''
+list index out of range
+list index out of range
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'posi_nega='1.66' where id = 11' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'posi_nega='0.8599998' where id = 14' at line 1
+list index out of range
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'posi_nega='-1.16' where id = 14' at line 1
+list index out of range
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'posi_nega='-0.58' where id = 16' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'posi_nega='-0.58' where id = 17' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'posi_nega='0.8599999' where id = 18' at line 1
+list index out of range
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'posi_nega='0.22' where id = 19' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'posi_nega='1.44' where id = 19' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'posi_nega='-1.16' where id = 19' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'posi_nega='3.46' where id = 19' at line 1
+list index out of range
+list index out of range
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'posi_nega='-0.58' where id = 19' at line 1
+list index out of range
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'posi_nega='-0.58' where id = 19' at line 1
+list index out of range
+list index out of range
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'posi_nega='-1.16' where id = 19' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'posi_nega='0' where id = 11' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'posi_nega='0' where id = 11' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'posi_nega='-8.760099' where id = 8' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'posi_nega='0' where id = 11' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'posi_nega='0' where id = 11' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'posi_nega='0' where id = 11' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'posi_nega='0' where id = 11' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'posi_nega='0' where id = 11' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'posi_nega='0' where id = 8' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'posi_nega='0' where id = 11' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'posi_nega='0' where id = 11' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'posi_nega='0' where id = 11' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'posi_nega='0' where id = 11' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'posi_nega='0' where id = 11' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'posi_nega='0' where id = 11' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'posi_nega='0' where id = 11' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'posi_nega='-0.58' where id = 11' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'posi_nega='-0.58' where id = 11' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'posi_nega='-0.58' where id = 11' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'posi_nega='-0.58' where id = 11' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'posi_nega='2.02' where id = 11' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'posi_nega='0' where id = 11' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'posi_nega='0' where id = 11' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'posi_nega='-0.58' where id = 11' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'posi_nega='0' where id = 11' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'posi_nega='0' where id = 11' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'posi_nega='0' where id = 11' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'posi_nega='0' where id = 11' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'posi_nega='0' where id = 11' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'posi_nega='0' where id = 11' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'posi_nega='0' where id = 11' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'posi_nega='0' where id = 11' at line 1
+Error when calling Cognitive Face API:
+	status_code: 400
+	code: InvalidImageSize
+	message: Image size is too small.
+
+Error when calling Cognitive Face API:
+	status_code: 400
+	code: InvalidImageSize
+	message: Image size is too small.
+
+Error when calling Cognitive Face API:
+	status_code: 400
+	code: InvalidImageSize
+	message: Image size is too small.
+
+Error when calling Cognitive Face API:
+	status_code: 400
+	code: InvalidImageSize
+	message: Image size is too small.
+
+Error when calling Cognitive Face API:
+	status_code: 400
+	code: InvalidImageSize
+	message: Image size is too small.
+
+Error when calling Cognitive Face API:
+	status_code: 400
+	code: InvalidImageSize
+	message: Image size is too small.
+
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'posi_nega='0' where id = 8' at line 1
+Error when calling Cognitive Face API:
+	status_code: 400
+	code: InvalidImageSize
+	message: Image size is too small.
+
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'posi_nega='0' where id = 8' at line 1
+Error when calling Cognitive Face API:
+	status_code: 400
+	code: InvalidImageSize
+	message: Image size is too small.
+
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'posi_nega='0' where id = 8' at line 1
+Error when calling Cognitive Face API:
+	status_code: 400
+	code: InvalidImageSize
+	message: Image size is too small.
+
+Error when calling Cognitive Face API:
+	status_code: 400
+	code: InvalidImageSize
+	message: Image size is too small.
+
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'posi_nega='0' where id = 8' at line 1
+Error when calling Cognitive Face API:
+	status_code: 400
+	code: InvalidImageSize
+	message: Image size is too small.
+
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'posi_nega='0' where id = 8' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'posi_nega='-0.58' where id = 8' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'posi_nega='-0.58' where id = 8' at line 1
+list index out of range
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'posi_nega='0' where id = 8' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'posi_nega='0' where id = 8' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'posi_nega='0' where id = 8' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'posi_nega='-0.58' where id = 8' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'posi_nega='-0.58' where id = 8' at line 1
+list index out of range
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'posi_nega='0' where id = 8' at line 1
+list index out of range
+list index out of range
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'posi_nega='0' where id = 11' at line 1
+list index out of range
+list index out of range
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'posi_nega='0' where id = 11' at line 1
+list index out of range
+list index out of range
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'posi_nega='0' where id = 11' at line 1
+list index out of range
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'posi_nega='0' where id = 11' at line 1
+list index out of range
+name 'rotate_img' is not defined
+name 'rotate_img' is not defined
+name 'rotate_img' is not defined
+name 'rotate_img' is not defined
+name 'rotate_img' is not defined
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'posi_nega='-0.3680304' where id = 11' at line 1
+list index out of range
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'posi_nega='0' where id = 11' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'posi_nega='-0.552915' where id = 11' at line 1

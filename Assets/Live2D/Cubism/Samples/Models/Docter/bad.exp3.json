@@ -1,0 +1,25 @@
+{
+	"Type": "Live2D Expression",
+	"Parameters": [
+		{
+			"Id": "ParamAozame",
+			"Value": 0.633,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamHistery",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamSad",
+			"Value": 0.612,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamBreath",
+			"Value": 0,
+			"Blend": "Add"
+		}
+	]
+}
